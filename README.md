@@ -60,8 +60,13 @@ neo-inheritance/
 
 ![Challenges Hierarchy UML Diagram](https://www.plantuml.com/plantuml/png/dLBDIWCn4BxdAUROOhSF8295xA6W9vzWkZiDWSbaoS_2OdrtcyGeYuh5MtRc-vblPdSXee_9iZ8IoP-m9tXmaiAUZJP79dXL03VG8_U9CL9fhjQtCBXqQQitfNh6461lHtOpLK87Bz4RqI1egNmRYM26ygnC2CZevwBUkAlAscJqvWEtBeZ1X95nFiZ9PVF9cU7B-Xa5DVdgtEIFUT3CRUsVnFyskIxy8qt4RYI_J3zwfprQUta_eUY4ch9WW_ysKorU4VoGRoPBpoHc8XzChAkja7_xV5xrxjnrRPFBQalphLwjLRlETdk-N_vRQaSo9Cll)
 
+## Contribution Rules
+- Contributors **cannot** push directly to `main`.
+- All Pull Requests must be reviewed before merging.
+- **Main Branch Protection:** Direct pushes to `main` are blocked. Contributors must use feature branches and create pull requests for review.
+- **Branch Protection Rules:**
+  - Pull requests are **required** before merging.
 
-## 🛠️ Getting Started
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/sakhileln/neo-inheritance.git
